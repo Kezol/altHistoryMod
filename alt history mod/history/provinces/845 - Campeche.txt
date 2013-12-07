@@ -1,0 +1,17 @@
+#845 - Campeche
+
+owner = MAY 
+controller = MAY 
+culture = mayan 
+religion = animism 
+capital = "Campeche" 
+trade_goods = sugar 
+hre = no 
+base_tax = 2 
+manpower = 1 
+citysize = 3000
+add_core = MAY
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+

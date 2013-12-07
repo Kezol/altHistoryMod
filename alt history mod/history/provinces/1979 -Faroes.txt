@@ -1,0 +1,16 @@
+#1979 - Färöarna
+
+owner = NOR
+controller = NOR 
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1
+trade_goods = fish
+manpower = 0.5
+capital = "Torshavn"
+citysize = 1000 		# Estimated
+fort1 = yes
+add_core = NOR
+discovered_by = western
+

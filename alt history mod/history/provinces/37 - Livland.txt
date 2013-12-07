@@ -1,0 +1,17 @@
+#273 - Livland
+
+owner = LIV
+controller = LIV
+culture = latvian
+religion = catholic
+capital = "Fellin"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 1500
+fort1 = yes
+add_core = LIV
+discovered_by = western
+discovered_by = eastern
+

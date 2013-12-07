@@ -1,0 +1,21 @@
+#116 - Firenze
+
+owner = PAP
+controller = PAP
+culture = lombard 
+religion = catholic 
+hre = no
+base_tax = 12        
+trade_goods = wine
+manpower = 6        
+fort1 = yes 
+capital = "Firenze" 
+citysize = 63000 # Estimated 
+university = yes # Founded 1321
+add_core = TUS
+add_core = PAP
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

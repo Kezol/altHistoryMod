@@ -1,0 +1,19 @@
+#353 - Gabes
+
+owner = TUN
+controller = TUN 
+culture = maghreb_arabic
+religion = sunni
+capital = "Djerba"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 6042
+fort1 = yes
+add_core = TUN
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+

@@ -1,0 +1,24 @@
+#1113 - Cayor
+
+owner = MAL
+controller = MAL
+culture = senegambian
+citysize = 12000
+manpower = 2
+religion = animism
+capital = "Mboul"
+trade_goods = slaves
+hre = no
+base_tax = 2
+add_core = MAL
+add_core = JOL
+discovered_by = MAL
+discovered_by = SOF
+discovered_by = ASH
+discovered_by = SON
+discovered_by = HAU
+discovered_by = KBO
+discovered_by = OYO
+discovered_by = BEN
+
+# 1453 - Part of the Mali Empire under Jolof governors

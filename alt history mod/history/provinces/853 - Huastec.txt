@@ -1,0 +1,17 @@
+#853 - Huastec
+
+owner = AZT
+controller = AZT
+add_core = AZT
+culture = aztek 
+religion = animism 
+capital = "Huastec" 
+trade_goods = gold 
+hre = no 
+base_tax = 2 
+manpower = 1 
+citysize = 2000
+discovered_by = AZT
+discovered_by = MAY
+discovered_by = ZAP
+

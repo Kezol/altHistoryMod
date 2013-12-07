@@ -1,0 +1,13 @@
+#656 - Manila
+
+culture = filipino
+religion = animism
+capital = "Manila"
+trade_goods = unknown
+hre = no
+base_tax = 4
+manpower = 2
+native_size = 70
+native_ferocity = 2
+native_hostileness = 9
+

@@ -1,0 +1,22 @@
+#1018 - Izumo
+
+owner = YMN
+controller = YMN
+culture = japanese
+religion = shinto
+capital = "Matsue"
+trade_goods = iron
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 5500
+add_core = YMN
+add_core = AMA
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+temple = yes # Izumo Shrine
+

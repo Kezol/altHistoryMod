@@ -1,0 +1,9 @@
+discovered_by = ATJ
+discovered_by = MLC
+discovered_by = AYU
+discovered_by = MAJ
+discovered_by = BLI
+discovered_by = MKS
+discovered_by = BEI
+discovered_by = indian
+

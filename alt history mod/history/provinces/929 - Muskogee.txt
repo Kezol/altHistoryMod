@@ -1,0 +1,17 @@
+#929 - Muskogee
+
+owner = CRE
+controller = CRE
+culture = creek
+religion = shamanism
+capital = "Muskogee"
+trade_goods = cotton
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 1500
+add_core = CRE
+discovered_by = CRE
+discovered_by = CHE
+discovered_by = SHA
+

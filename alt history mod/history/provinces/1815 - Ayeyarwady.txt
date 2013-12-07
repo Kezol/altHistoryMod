@@ -1,0 +1,19 @@
+#1815 - Ayeyarwady
+
+owner = PEG
+controller = PEG
+culture = mon
+religion = buddhism
+capital = "Ayeyarwady"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 20000
+add_core = PEG
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+

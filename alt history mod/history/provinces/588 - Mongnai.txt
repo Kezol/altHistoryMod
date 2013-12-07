@@ -1,0 +1,16 @@
+#588 - Mongnai
+
+owner = SST
+controller = SST
+culture = shan
+religion = buddhism
+capital = "Mongnai"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 3200
+add_core = SST
+discovered_by = chinese
+discovered_by = indian
+

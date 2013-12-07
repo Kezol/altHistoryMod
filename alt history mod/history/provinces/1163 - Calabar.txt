@@ -1,0 +1,22 @@
+#1163 - Calabar
+
+owner = HAU
+controller = HAU
+culture = ashanti
+religion = animism
+capital = "Calabar"
+trade_goods = slaves
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 4100
+add_core = HAU
+discovered_by = MAL
+discovered_by = SOF
+discovered_by = ASH
+discovered_by = SON
+discovered_by = HAU
+discovered_by = KBO
+discovered_by = OYO
+discovered_by = BEN
+

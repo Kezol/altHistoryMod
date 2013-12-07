@@ -1,0 +1,18 @@
+#Keksholms län+Karelen, incl. Sordavala and Keksholm.
+
+owner = NOV
+controller = NOV
+add_core = FIN
+add_core = NOV
+culture = finnish
+religion = orthodox
+hre = no
+base_tax = 1
+trade_goods = fur
+manpower = 1
+capital = "Korela" # initial Russian name
+citysize = 1000 # Estimated
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
+

@@ -1,0 +1,16 @@
+#1169 - Mayombe
+
+owner = KON
+controller = KON
+culture = aka
+religion = shamanism
+capital = "Anziku"
+trade_goods = slaves
+hre = no
+base_tax = 3
+manpower = 5
+citysize = 1480
+add_core = KON
+discovered_by = LOA
+discovered_by = KON
+

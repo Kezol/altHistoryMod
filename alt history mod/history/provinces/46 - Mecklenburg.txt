@@ -1,0 +1,21 @@
+#46 - Mecklenburg
+
+owner = POM
+controller = POM
+add_core = MKL
+add_core = POM
+add_core = PAP
+culture = pommeranian
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = grain
+manpower = 3
+fort1 = yes
+capital = "Rostock"
+citysize = 17800
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

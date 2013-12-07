@@ -1,0 +1,17 @@
+#Savolaks, incl. Nyslott(Olofsborg).
+
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+culture = finnish
+religion = catholic
+hre = no
+base_tax = 1
+trade_goods = fur
+manpower = 1
+capital = "Olofsborg"
+citysize = 1000 # Estimated
+discovered_by = western
+discovered_by = eastern
+

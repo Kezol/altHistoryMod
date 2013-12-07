@@ -1,0 +1,17 @@
+#844 - Zapotec
+
+owner = ZAP
+controller = ZAP
+culture = zapotek
+religion = animism
+capital = "Zapotec"
+trade_goods = sugar
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 2500
+add_core = ZAP
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+

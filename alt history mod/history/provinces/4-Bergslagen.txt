@@ -1,0 +1,20 @@
+#Bergslagen, contains Falun, Västerås etc.
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 2
+trade_goods = iron
+manpower = 2
+fort1 = yes
+capital = "Västerås"
+citysize = 1200 #estimate
+temple = yes #"Domkyrkan i Västerås"
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

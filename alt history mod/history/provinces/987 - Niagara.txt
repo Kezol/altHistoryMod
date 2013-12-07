@@ -1,0 +1,16 @@
+#987 - Niagara
+
+owner = HUR
+controller = HUR
+culture = huron
+religion = shamanism
+capital = "Niagara"
+trade_goods = fur
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 1250
+add_core = HUR
+discovered_by = HUR
+discovered_by = IRO
+

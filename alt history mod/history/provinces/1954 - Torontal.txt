@@ -1,0 +1,19 @@
+#1954 - Torontál
+
+owner = HUN
+controller = HUN 
+culture = hungarian
+religion = catholic
+capital = "Zrenjanin"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 3760
+fort1 = yes
+add_core = HUN
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

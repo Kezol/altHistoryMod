@@ -1,0 +1,18 @@
+#348 - Sus
+
+owner = MOR
+controller = MOR
+culture = berber
+religion = sunni
+capital = "Taroudant"
+trade_goods = gold
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1057
+fort1 = yes
+add_core = MOR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

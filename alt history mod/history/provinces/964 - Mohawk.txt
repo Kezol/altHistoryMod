@@ -1,0 +1,16 @@
+#964 - Mohawk
+
+owner = IRO
+controller = IRO
+culture = iroquis
+religion = shamanism
+capital = "Mohawk"
+trade_goods = fur
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 1000
+add_core = IRO
+discovered_by = IRO
+discovered_by = HUR
+

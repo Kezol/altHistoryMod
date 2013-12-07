@@ -1,0 +1,17 @@
+#948 - Ohio
+
+owner = SHA
+controller = SHA
+culture = shawnee
+religion = shamanism
+capital = "Ohio"
+trade_goods = fur
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1000
+add_core = SHA
+discovered_by = SHA
+discovered_by = CRE
+discovered_by = CHE
+

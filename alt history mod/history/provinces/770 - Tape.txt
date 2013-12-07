@@ -1,0 +1,13 @@
+#770 - Tape
+
+culture = teremembe
+religion = animism
+capital = "Tape"
+trade_goods = unknown
+hre = no
+base_tax = 3
+manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 7
+

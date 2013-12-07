@@ -1,0 +1,13 @@
+#497 - Guadeloupe
+
+culture = carib
+religion = animism
+capital = "Guadeloupe"
+trade_goods = unknown 
+hre = no
+base_tax = 6
+manpower = 1 
+native_size = 20
+native_ferocity = 2
+native_hostileness = 5
+

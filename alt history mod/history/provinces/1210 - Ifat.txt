@@ -1,0 +1,22 @@
+#1210 - Ifat
+
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = ethiopian 
+religion = sunni
+capital = "Gende Belo"
+citysize = 4000
+manpower = 2
+trade_goods = coffee
+hre = no
+base_tax = 1
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+

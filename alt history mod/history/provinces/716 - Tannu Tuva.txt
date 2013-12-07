@@ -1,0 +1,16 @@
+#716 - Tannu Tuva
+
+owner = OIR		# The Oirads united much of Mongolia
+controller = OIR
+culture = mongol
+religion = buddhism
+capital = "Tannu Tuva"
+trade_goods = grain
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 5988
+add_core = OIR
+discovered_by = chinese
+discovered_by = nomad_group
+

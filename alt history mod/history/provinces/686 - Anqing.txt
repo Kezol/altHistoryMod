@@ -1,0 +1,18 @@
+#686 - Anqing (can't change file name)
+
+owner = MNG
+controller = MNG
+culture = chihan
+religion = confucianism
+capital = "Anqing"
+trade_goods = tea
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 22900
+add_core = MNG
+add_core = CSH
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

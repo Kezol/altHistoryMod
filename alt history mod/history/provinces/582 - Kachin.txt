@@ -1,0 +1,16 @@
+#582 - Kachin
+
+owner = SST
+controller = SST
+culture = shan
+religion = animism
+capital = "Kachin"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5400
+add_core = SST
+discovered_by = chinese
+discovered_by = indian
+

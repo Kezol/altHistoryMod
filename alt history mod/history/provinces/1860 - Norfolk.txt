@@ -1,0 +1,19 @@
+#1860 - Norfolk
+
+owner = ENG
+controller = ENG
+culture = english
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = iron
+manpower = 2
+capital = "Norwich"
+citysize = 6500
+add_core = ENG
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+

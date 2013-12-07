@@ -1,0 +1,17 @@
+#840 - Honduras
+
+owner = MAY 
+controller = MAY 
+culture = mayan 
+religion = animism 
+capital = "Honduras" 
+trade_goods = coffee 
+hre = no 
+base_tax = 2 
+manpower = 1 
+citysize = 2000
+add_core = MAY
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+

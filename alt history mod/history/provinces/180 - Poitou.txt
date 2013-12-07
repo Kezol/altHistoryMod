@@ -1,0 +1,21 @@
+# 180 Poitou - Principal cities: Poitiers
+
+owner = GUY
+controller = GUY
+capital = "Poitiers"
+citysize = 13000
+culture = cosmopolitan_french
+religion = catholic 
+hre = no
+base_tax = 6
+trade_goods = salt
+manpower = 5
+add_core = FRA
+add_core = GUY
+fort1 = yes
+temple = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

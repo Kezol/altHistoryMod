@@ -1,0 +1,13 @@
+#654 - Visayas
+
+culture = filipino
+religion = animism
+capital = "Visayas"
+trade_goods = unknown
+hre = no
+base_tax = 4
+manpower = 3
+native_size = 30
+native_ferocity = 2
+native_hostileness = 9
+

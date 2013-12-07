@@ -1,0 +1,21 @@
+# 1742 Limburg
+
+owner = BRB
+controller = BRB
+capital = "Maastricht"
+citysize = 17000
+culture = flemish
+religion = catholic
+hre = yes
+base_tax = 6
+trade_goods = iron
+manpower = 4
+add_core = BRB
+marketplace = yes
+courthouse = yes
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

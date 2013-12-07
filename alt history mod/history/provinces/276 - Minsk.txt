@@ -1,0 +1,20 @@
+#276 - Minsk
+
+owner = LIT
+controller = LIT   
+culture = byelorussian
+religion = orthodox
+hre = no
+base_tax = 8
+trade_goods = naval_supplies 
+manpower = 5
+capital = "Minsk"
+citysize = 2850
+fort1 = yes 
+add_core = LIT
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+

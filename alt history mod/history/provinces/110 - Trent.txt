@@ -1,0 +1,23 @@
+#110 - Trent
+
+owner = BAV
+controller = BAV
+add_core = STY
+add_core = BAV
+add_core = HAB
+add_core = TIR
+culture = bavarian
+religion = catholic
+hre = no
+base_tax = 4
+trade_goods = iron 
+manpower = 1
+fort1 = yes
+capital = "Trent"
+citysize = 8000
+marketplace = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

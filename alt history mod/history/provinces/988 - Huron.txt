@@ -1,0 +1,16 @@
+#988 - Huron
+
+owner = HUR
+controller = HUR
+culture = huron
+religion = shamanism
+capital = "Huron"
+trade_goods = fur
+hre = no
+base_tax = 5
+manpower = 4
+citysize = 1500
+add_core = HUR
+discovered_by = HUR
+discovered_by = IRO
+

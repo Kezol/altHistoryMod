@@ -1,0 +1,13 @@
+#1881 - Saint Barthélemy
+
+culture = arawak
+religion = animism
+capital = "St. Barthélemy"
+trade_goods = unknown
+hre = no
+base_tax = 6
+manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 4 
+

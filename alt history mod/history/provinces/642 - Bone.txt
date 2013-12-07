@@ -1,0 +1,15 @@
+#642 - Bone
+
+culture = sulawesi
+religion = animism
+capital = "Bone"
+trade_goods = unknown
+hre = no
+base_tax = 5
+manpower = 3
+native_size = 60
+native_ferocity = 2
+native_hostileness = 5
+discovered_by = MAJ
+discovered_by = MKS
+

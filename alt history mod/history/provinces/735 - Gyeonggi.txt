@@ -1,0 +1,17 @@
+#735 - Gyeonggi
+
+owner = KOR
+controller = KOR
+culture = korean
+religion = confucianism
+capital = "Hanseong"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 19870
+add_core = KOR
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

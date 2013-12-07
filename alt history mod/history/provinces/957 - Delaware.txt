@@ -1,0 +1,14 @@
+#957 - Delaware
+
+culture = delaware
+religion = shamanism
+capital = "Delaware"
+trade_goods = unknown
+hre = no
+base_tax = 5
+manpower = 3
+native_size = 10
+native_ferocity = 2
+native_hostileness = 7
+discovered_by = IRO
+

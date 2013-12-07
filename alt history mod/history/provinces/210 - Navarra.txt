@@ -1,0 +1,19 @@
+#210 - Navarra
+
+owner = NAV		#Juan I de Navarra
+controller = NAV
+add_core = NAV
+culture = basque
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = iron
+manpower = 2 
+fort1 = yes
+capital = "Pamplona" 
+citysize = 3500
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

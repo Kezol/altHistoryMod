@@ -1,0 +1,22 @@
+#1146 - Ife
+
+owner = OYO
+controller = OYO
+add_core = OYO
+culture = yorumba
+religion = animism
+capital = "Ife Ile"
+citysize = 5000
+manpower = 1
+trade_goods = grain
+hre = no
+base_tax = 1
+discovered_by = MAL
+discovered_by = SOF
+discovered_by = ASH
+discovered_by = SON
+discovered_by = HAU
+discovered_by = KBO
+discovered_by = OYO
+discovered_by = BEN
+

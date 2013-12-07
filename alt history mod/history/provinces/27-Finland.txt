@@ -1,0 +1,19 @@
+#Finland, incl. Åbo.
+
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = grain
+manpower = 2
+fort1 = yes
+capital = "Åbo"
+citysize = 1000 # Estimated
+temple = yes #"Domkyrkan i Åbo"
+discovered_by = western
+discovered_by = eastern
+

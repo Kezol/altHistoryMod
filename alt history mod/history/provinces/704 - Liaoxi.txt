@@ -1,0 +1,18 @@
+#704 - Liaoxi
+
+owner = MNG
+controller = MNG
+culture = manchu
+religion = confucianism
+capital = "Jinzhou"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 8970
+add_core = MNG
+add_core = CSH
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

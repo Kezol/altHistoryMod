@@ -1,0 +1,23 @@
+#1773 - Achaea
+
+owner = ATH
+controller = ATH
+culture = greek
+religion = orthodox
+capital = "Mystras"
+trade_goods = wine
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 4300
+fort1 = yes
+add_core = ACH
+add_core = ATH
+add_core = MOE
+add_core = BYZ
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+

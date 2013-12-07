@@ -1,0 +1,17 @@
+#305 - Perm
+
+owner = KAZ
+controller = KAZ
+culture = uralic
+religion = shamanism
+hre = no
+base_tax = 6
+trade_goods = copper
+manpower = 5
+capital = "Yagoshiha"
+citysize = 3250
+add_core = KAZ
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+

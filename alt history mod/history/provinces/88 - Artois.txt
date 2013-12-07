@@ -1,0 +1,21 @@
+# 88 Artois - Principal cities: Arras, Saint-Omer & Lille
+
+owner = HOL
+controller = HOL
+capital = "Arras"
+citysize = 35500
+culture = flemish
+religion = catholic
+hre = no
+base_tax = 6
+trade_goods = cloth
+manpower = 3
+add_core = HOL
+add_core = FLA
+marketplace = yes
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

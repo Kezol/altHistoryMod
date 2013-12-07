@@ -1,0 +1,19 @@
+# 179 Berry
+
+owner = BER
+controller = BER
+capital = "Bourges"
+citysize = 15000
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 7
+trade_goods = wine
+manpower = 5
+add_core = BER
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

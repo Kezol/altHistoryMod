@@ -1,0 +1,21 @@
+# 175 Armagnac - Principal cities: Auch
+
+owner = GUY
+controller = GUY
+capital = "Auch"
+citysize = 1500
+culture = gascon
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = wool
+manpower = 4
+add_core = AMG
+add_core = GUY
+add_core = FRA
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

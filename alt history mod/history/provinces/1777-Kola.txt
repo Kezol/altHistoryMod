@@ -1,0 +1,34 @@
+#Kola
+
+owner = NOV
+controller = NOV 
+capital = "Kola"
+culture = sapmi
+religion = orthodox
+hre = no
+add_core = NOV
+base_tax = 1
+citysize = 100
+trade_goods = fur
+manpower = 1
+native_hostileness = 1
+native_size = 2
+native_ferocity = 2
+discovered_by = SWE
+discovered_by = NOR
+discovered_by = DAN
+discovered_by = FIN
+discovered_by = GOT
+discovered_by = SHL
+discovered_by = SCA
+discovered_by = NOV
+discovered_by = MOS
+discovered_by = PSK
+discovered_by = RUS
+discovered_by = RYA
+discovered_by = TVE
+discovered_by = YAR
+discovered_by = PLT
+discovered_by = SMO
+discovered_by = NZH
+

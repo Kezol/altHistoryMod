@@ -1,0 +1,20 @@
+#104 - Lombardia
+
+owner = SAV
+controller = SAV
+culture = lombard
+religion = catholic
+hre = no
+base_tax = 14 
+trade_goods = cloth
+manpower = 7
+fort1 = yes
+capital = "Milano"
+citysize = 110000	# Estimated
+add_core = MLO
+add_core = SAV
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

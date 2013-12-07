@@ -1,0 +1,15 @@
+#640 - Sukadane
+
+owner = BEI
+controller = BEI
+culture = malayan
+religion = sunni
+capital = "Sukadane"
+trade_goods = naval_supplies
+hre = no
+base_tax = 4
+manpower = 4
+citysize = 4300
+add_core = BEI
+discovered_by = chinese
+

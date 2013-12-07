@@ -1,0 +1,16 @@
+#Dalaskogen, northwesten part of Dalarna, including Mora and entire Siljan area.
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 2
+trade_goods = copper
+manpower = 2
+capital = "Mora"
+citysize = 1200 # estimate
+discovered_by = eastern
+discovered_by = western
+

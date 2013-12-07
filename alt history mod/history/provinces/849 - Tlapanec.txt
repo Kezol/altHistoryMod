@@ -1,0 +1,17 @@
+#849 - Tlapanec
+
+owner = ZAP
+controller = ZAP
+culture = zapotek
+religion = animism
+capital = "Acapulco"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 1600
+add_core = ZAP
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+

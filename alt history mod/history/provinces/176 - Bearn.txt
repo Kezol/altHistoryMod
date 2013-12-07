@@ -1,0 +1,25 @@
+# 176 B�arn - Principal cities: Pau
+
+owner = GUY
+controller = GUY
+capital = "Pau"
+citysize = 2000
+culture = gascon
+religion = catholic
+hre = no
+base_tax = 4
+trade_goods = wool
+manpower = 3
+add_core = FOI
+add_core = GUY
+add_core = SAV
+add_core = SAV
+add_core = GUY
+add_core = FRA
+add_core = AMG
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

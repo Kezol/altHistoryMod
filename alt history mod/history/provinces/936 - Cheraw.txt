@@ -1,0 +1,17 @@
+#936 - Cheraw
+
+owner = CHE
+controller = CHE
+culture = cherokee
+religion = shamanism
+capital = "Cheraw"
+trade_goods = tobacco
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 1200
+add_core = CHE
+discovered_by = CHE
+discovered_by = CRE
+discovered_by = SHA
+

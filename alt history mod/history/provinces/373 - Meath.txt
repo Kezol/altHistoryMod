@@ -1,0 +1,20 @@
+#373 - Meath
+
+owner = ENG
+controller = ENG
+add_core = ENG
+culture = irish
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = grain
+manpower = 3
+capital = "Dublin"
+citysize = 3000
+fort1 = yes
+temple = yes # St. Patrick's Cathedral, Dublin
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+

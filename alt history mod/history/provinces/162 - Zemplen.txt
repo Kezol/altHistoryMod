@@ -1,0 +1,19 @@
+#162 - Zemplén
+
+owner = HUN
+controller = HUN  
+culture = ruthenian
+religion = catholic
+capital = "Kassa"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5233
+fort1 = yes
+add_core = HUN
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

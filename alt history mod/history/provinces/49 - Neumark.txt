@@ -1,0 +1,21 @@
+#49 - Neumark
+
+owner = POM
+controller = POM
+add_core = BRA
+add_core = POM
+add_core = PAP
+culture = saxon
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = grain
+manpower = 3
+fort1 = yes
+capital = "Landsberg"
+citysize = 6000 # Estimated. No firm population information for this province
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,20 @@
+#1015 - Okinawa
+
+owner = RYU
+controller = RYU
+culture = japanese
+religion = animism
+capital = "Shuri"
+trade_goods = chinaware
+hre = no
+base_tax = 2
+manpower = 1
+fort1 = yes
+citysize = 8670
+add_core = RYU
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

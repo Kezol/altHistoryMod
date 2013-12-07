@@ -1,0 +1,19 @@
+#1184 - Zimbabwe
+
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = shona
+religion = animism
+capital = "Khami"
+citysize = 6000
+manpower = 2
+trade_goods = gold
+hre = no
+base_tax = 4
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+

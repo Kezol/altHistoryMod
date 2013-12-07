@@ -1,0 +1,19 @@
+#586 - Pegu
+
+owner = PEG
+controller = PEG
+culture = mon
+religion = buddhism
+capital = "Pegu"
+trade_goods = spices
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 40200
+add_core = PEG
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+

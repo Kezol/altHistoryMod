@@ -1,0 +1,18 @@
+#670 - Ganzhou
+
+owner = MNG
+controller = MNG
+culture = chihan
+religion = confucianism
+capital = "Ganzhou"
+trade_goods = chinaware
+hre = no
+base_tax = 6
+manpower = 2
+citysize = 30140
+add_core = MNG
+add_core = CXI
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

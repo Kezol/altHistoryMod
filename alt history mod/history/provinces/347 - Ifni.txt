@@ -1,0 +1,20 @@
+#347 - Ifni
+
+owner = KOJ
+controller = KOJ
+culture = berber
+religion = catholic
+capital = "Sidi Ifni"
+trade_goods = fish
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1400
+fort1 = yes
+add_core = MOR
+add_core = KOJ
+add_core = KOJ
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+

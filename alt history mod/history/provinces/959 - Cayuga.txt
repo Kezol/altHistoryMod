@@ -1,0 +1,16 @@
+#959 - Cayuga
+
+owner = IRO
+controller = IRO
+culture = iroquis
+religion = shamanism
+capital = "Cayuga"
+trade_goods = fur
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1350
+add_core = IRO
+discovered_by = IRO
+discovered_by = HUR
+

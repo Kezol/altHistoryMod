@@ -1,0 +1,21 @@
+#136 - Dalmatia
+
+owner = CRO
+controller = CRO
+culture = croatian
+religion = catholic
+capital = "Zadar"
+trade_goods = wool
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 8400
+fort1 = yes
+add_core = HUN
+add_core = CRO
+add_core = CRO
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

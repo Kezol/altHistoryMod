@@ -1,0 +1,14 @@
+#969 - Pocumtuk
+
+culture = iroquis
+religion = shamanism
+capital = "Pocumtuk"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 4
+native_size = 5
+native_ferocity = 1
+native_hostileness = 4
+discovered_by = IRO
+

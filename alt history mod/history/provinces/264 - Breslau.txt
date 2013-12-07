@@ -1,0 +1,21 @@
+#264 - Breslau
+
+owner = SIL
+controller = SIL
+culture = schlesian
+religion = catholic
+capital = "Breslau"
+trade_goods = iron
+hre = no
+base_tax = 6
+citysize = 20500 
+manpower = 10
+fort1 = yes
+add_core = BOH
+add_core = SIL
+add_core = SIL
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

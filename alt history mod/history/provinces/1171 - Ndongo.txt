@@ -1,0 +1,16 @@
+#1171 - Ndongo
+
+owner = KON
+controller = KON
+culture = kongolese
+religion = shamanism
+capital = "Ndongo"
+trade_goods = slaves
+hre = no
+base_tax = 4
+manpower = 5
+citysize = 1050
+add_core = KON
+discovered_by = KON
+discovered_by = LOA
+

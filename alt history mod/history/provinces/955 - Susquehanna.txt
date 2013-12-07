@@ -1,0 +1,14 @@
+#955 - Susquehanna
+
+culture = iroquis
+religion = shamanism
+capital = "Susquehanna"
+trade_goods = unknown
+hre = no
+base_tax = 6
+manpower = 2
+native_size = 5
+native_ferocity = 1
+native_hostileness = 4
+discovered_by = IRO
+ 

@@ -1,0 +1,13 @@
+#658 - Cagayan
+
+culture = filipino
+religion = animism
+capital = "Cagayan"
+trade_goods = unknown
+hre = no
+base_tax = 3
+manpower = 2
+native_size = 50
+native_ferocity = 1
+native_hostileness = 3
+

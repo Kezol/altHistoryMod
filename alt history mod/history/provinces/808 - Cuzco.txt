@@ -1,0 +1,16 @@
+#808 - Cuzco
+
+owner = INC
+controller = INC
+culture = inca
+religion = animism
+capital = "Cuzco"
+trade_goods = gold
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 1980
+add_core = INC
+temple = yes
+discovered_by = INC
+

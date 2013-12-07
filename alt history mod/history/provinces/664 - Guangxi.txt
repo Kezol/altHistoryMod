@@ -1,0 +1,19 @@
+#664 - Guangxi
+
+owner = MNG
+controller = MNG
+culture = cantonese
+religion = confucianism
+capital = "Nanning"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+manpower = 1
+citysize = 12900
+add_core = MNG
+add_core = CZH
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group
+

@@ -1,0 +1,17 @@
+#604 - Udong
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Phnom Penh"
+trade_goods = ivory
+hre = no
+base_tax = 3
+manpower = 3
+fort1 = yes
+citysize = 33500
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian
+

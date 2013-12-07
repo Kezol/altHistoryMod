@@ -1,0 +1,20 @@
+#164 - Naxos
+
+owner = ATH
+controller = ATH
+culture = greek
+religion = orthodox
+capital = "Naxos"
+trade_goods = wine
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 3008
+fort1 = yes
+add_core = NAX
+add_core = ATH
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western
+

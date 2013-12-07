@@ -1,0 +1,15 @@
+#856 - Zacatecas
+
+culture = aztek 
+religion = animism 
+capital = "Zacatecas" 
+trade_goods = unknown
+hre = no
+base_tax = 1 
+manpower = 3 
+native_size = 5 
+native_ferocity = 1 
+native_hostileness = 5
+discovered_by = MAY
+discovered_by = ZAP
+

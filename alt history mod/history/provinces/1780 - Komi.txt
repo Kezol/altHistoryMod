@@ -1,0 +1,5 @@
+#1780 - Komi
+
+discovered_by = nomad_group
+discovered_by = NOV
+

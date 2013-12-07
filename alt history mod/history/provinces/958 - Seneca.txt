@@ -1,0 +1,16 @@
+#958 - Seneca
+
+owner = IRO
+controller = IRO
+culture = iroquis
+religion = shamanism
+capital = "Seneca"
+trade_goods = fur
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1200
+add_core = IRO
+discovered_by = IRO
+discovered_by = HUR
+

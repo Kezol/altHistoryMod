@@ -1,0 +1,17 @@
+#852 - Mexico
+
+owner = AZT
+controller = AZT
+add_core = AZT
+culture = aztek 
+religion = animism 
+capital = "Tenochtitlan" 
+trade_goods = gold
+hre = no 
+base_tax = 5 
+manpower = 2 
+citysize = 4500
+discovered_by = AZT
+discovered_by = MAY
+discovered_by = ZAP
+

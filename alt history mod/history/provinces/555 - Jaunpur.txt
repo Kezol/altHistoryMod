@@ -1,0 +1,23 @@
+#555 - Jaunpur
+
+owner = JNP
+controller = JNP
+culture = bihari
+religion = hinduism
+capital = "Jaunpur"
+trade_goods = cloth
+hre = no
+base_tax = 6
+manpower = 4
+citysize = 65000
+add_core = JNP
+fort1 = yes
+fort2 = yes #Jaunpur Quilla
+temple = yes
+constable = yes
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = chinese
+

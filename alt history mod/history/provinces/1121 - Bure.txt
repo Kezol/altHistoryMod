@@ -1,0 +1,22 @@
+#1121 - Bure
+
+owner = MAL
+controller = MAL
+culture = mali
+citysize = 14000
+manpower = 2
+religion = animism
+capital = "Kurussa"
+trade_goods = gold
+hre = no
+base_tax = 8
+add_core = MAL
+discovered_by = MAL
+discovered_by = SOF
+discovered_by = ASH
+discovered_by = SON
+discovered_by = HAU
+discovered_by = KBO
+discovered_by = OYO
+discovered_by = BEN
+

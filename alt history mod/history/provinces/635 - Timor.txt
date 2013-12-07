@@ -1,0 +1,14 @@
+#635 - Timor
+
+culture = papuan
+religion = animism
+capital = "Timor"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 3
+native_size = 10
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = MAJ
+

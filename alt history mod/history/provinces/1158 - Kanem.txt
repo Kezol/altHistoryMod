@@ -1,0 +1,22 @@
+#1158 - Kanem
+
+owner = KBO
+controller = KBO
+add_core = KBO
+culture = mali #Kanuri
+religion = sunni
+capital = "Ngala"
+citysize = 14000
+manpower = 2
+trade_goods = wool
+hre = no
+base_tax = 1
+discovered_by = MAL
+discovered_by = SOF
+discovered_by = ASH
+discovered_by = SON
+discovered_by = HAU
+discovered_by = KBO
+discovered_by = OYO
+discovered_by = BEN
+

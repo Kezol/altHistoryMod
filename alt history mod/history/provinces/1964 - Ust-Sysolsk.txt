@@ -1,0 +1,17 @@
+#Ust-Sysolsk
+
+owner = PRM
+controller = PRM
+culture = uralic
+religion = orthodox
+hre = no
+base_tax = 1
+trade_goods = fur
+manpower = 1
+capital = "Ust-Sysola"
+citysize = 1000
+add_core = PRM
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+

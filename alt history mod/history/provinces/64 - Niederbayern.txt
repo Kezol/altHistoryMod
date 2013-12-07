@@ -1,0 +1,19 @@
+#64 - Niederbayern
+
+owner = BAV
+controller = BAV
+add_core = BAV
+culture = bavarian
+religion = catholic
+base_tax = 6
+trade_goods = grain
+manpower = 1
+fort1 = yes
+capital	= "Landshut" 
+citysize = 5000
+hre = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

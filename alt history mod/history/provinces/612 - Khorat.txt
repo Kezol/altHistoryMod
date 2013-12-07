@@ -1,0 +1,17 @@
+#612 - Khorat
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Khorat"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 14200
+add_core = KHM
+add_core = AYU
+discovered_by = chinese
+discovered_by = indian
+

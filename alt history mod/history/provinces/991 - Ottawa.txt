@@ -1,0 +1,16 @@
+#991 - Ottawa
+
+owner = HUR
+controller = HUR
+culture = huron
+religion = shamanism
+capital = "Ottawa"
+trade_goods = fur
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1200
+add_core = HUR
+discovered_by = HUR
+discovered_by = IRO
+

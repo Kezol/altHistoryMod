@@ -1,0 +1,17 @@
+#732 - Hamgyeong
+
+owner = KOR
+controller = KOR
+culture = korean
+religion = confucianism
+capital = "Hamheung"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 5688
+add_core = KOR
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

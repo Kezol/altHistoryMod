@@ -1,0 +1,22 @@
+#1142 - Dendi
+
+owner = SON
+controller = SON
+add_core = SON
+culture = mali #songhai
+citysize = 7000
+manpower = 1
+religion = sunni
+capital = "Sorko"
+trade_goods = grain
+hre = no
+base_tax = 2
+discovered_by = MAL
+discovered_by = SOF
+discovered_by = ASH
+discovered_by = SON
+discovered_by = HAU
+discovered_by = KBO
+discovered_by = OYO
+discovered_by = BEN
+

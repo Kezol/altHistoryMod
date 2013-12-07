@@ -1,0 +1,18 @@
+#683 - Nanchang
+
+owner = MNG
+controller = MNG
+culture = chihan
+religion = confucianism
+capital = "Nanchang"
+trade_goods = grain
+hre = no
+base_tax = 8
+manpower = 3
+citysize = 46200
+add_core = MNG
+add_core = CXI
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

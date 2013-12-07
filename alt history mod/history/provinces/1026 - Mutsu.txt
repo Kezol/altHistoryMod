@@ -1,0 +1,20 @@
+#1026 - Mutsu
+
+owner = DTE
+controller = DTE
+culture = japanese
+religion = shinto
+capital = "Aizu"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 4200
+add_core = DTE
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

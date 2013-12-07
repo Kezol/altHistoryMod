@@ -1,0 +1,22 @@
+#1133 - Gao
+
+owner = SON
+controller = SON
+culture = mali
+citysize = 9500
+manpower = 2
+religion = animism
+capital = "Gao"
+trade_goods = grain
+hre = no
+base_tax = 7
+add_core = SON
+discovered_by = MAL
+discovered_by = SOF
+discovered_by = ASH
+discovered_by = SON
+discovered_by = HAU
+discovered_by = KBO
+discovered_by = OYO
+discovered_by = BEN
+

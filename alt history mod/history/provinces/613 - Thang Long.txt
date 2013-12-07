@@ -1,0 +1,19 @@
+#613 - Thang Long
+
+owner = DAI
+controller = DAI
+culture = vietnamese
+religion = buddhism
+capital = "Hanoi"
+trade_goods = naval_supplies
+hre = no
+base_tax = 11
+manpower = 6
+citysize = 14000
+add_core = DAI
+discovered_by = DAI
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+

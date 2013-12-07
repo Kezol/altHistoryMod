@@ -1,0 +1,16 @@
+#580 - Chin
+
+owner = SST
+controller = SST
+culture = chin
+religion = animism
+capital = "Chin"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5800
+add_core = SST
+discovered_by = chinese
+discovered_by = indian
+

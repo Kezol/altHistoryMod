@@ -1,0 +1,18 @@
+#1217 - Fazughli
+
+culture = nubian #Shilluk
+religion = animism
+capital = "Alays"
+native_size = 80
+native_ferocity = 4
+native_hostileness = 9 
+trade_goods = unknown
+hre = no
+base_tax = 1
+manpower = 2
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+

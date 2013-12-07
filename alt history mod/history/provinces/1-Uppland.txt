@@ -1,0 +1,22 @@
+#Uppland, contains Stockholm, Uppsala & Nyköping.
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = grain
+manpower = 3
+fort1 = yes
+capital = "Stockholm"
+is_city = yes
+temple = yes #"Domkyrkan i Uppsala"
+workshop = yes #"Stockholms borgarskap"
+marketplace = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

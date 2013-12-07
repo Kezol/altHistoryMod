@@ -1,0 +1,19 @@
+#60 - Lausitz
+
+owner = BOH
+controller = BOH
+add_core = BOH
+capital = "Bautzen"
+culture = saxon
+religion = catholic
+trade_goods = cloth
+hre = yes
+base_tax = 4
+manpower = 1
+citysize = 4000
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

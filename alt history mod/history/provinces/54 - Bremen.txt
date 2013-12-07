@@ -1,0 +1,22 @@
+#54 - Stade
+
+owner = GER
+controller = GER
+culture = hannoverian
+religion = catholic
+capital = "Bremerv�rde"
+trade_goods = fish
+hre = no
+base_tax = 6
+manpower = 4
+citysize = 8000
+fort1 = yes
+add_core = BRE
+add_core = GER
+add_core = GER
+temple = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

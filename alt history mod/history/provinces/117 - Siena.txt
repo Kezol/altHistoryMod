@@ -1,0 +1,21 @@
+#117 - Siena
+
+owner = PAP
+controller = PAP
+culture = lombard 
+religion = catholic 
+hre = no
+base_tax = 8        
+trade_goods = cloth
+manpower = 4        
+fort1 = yes 
+capital = "Siena" 
+citysize = 12000 # Estimated 
+university = yes # Founded 1240
+add_core = SIE
+add_core = PAP
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

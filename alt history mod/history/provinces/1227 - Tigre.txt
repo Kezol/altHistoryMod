@@ -1,0 +1,22 @@
+#1227 - Tigre
+
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = ethiopian 
+religion = animism
+capital = "Debarwa"
+citysize = 8000
+manpower = 3
+trade_goods = grain
+hre = no
+base_tax = 2
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+

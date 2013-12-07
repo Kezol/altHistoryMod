@@ -1,0 +1,16 @@
+#711 - Qarqan
+
+owner = OIR
+controller = OIR
+culture = mongol
+religion = buddhism
+capital = "Qarqan"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 5670
+add_core = OIR
+discovered_by = chinese
+discovered_by = nomad_group
+

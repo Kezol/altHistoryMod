@@ -1,0 +1,20 @@
+#242 - Gwynedd
+
+owner = ENG
+controller = ENG
+culture = welsh
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = fish
+manpower = 1
+capital = "Caernarvon"
+citysize = 1000
+add_core = ENG
+add_core = WLS 
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+

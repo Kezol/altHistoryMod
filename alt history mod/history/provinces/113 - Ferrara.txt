@@ -1,0 +1,24 @@
+#113 - Ferrara
+
+owner = VEN
+controller = VEN
+culture = lombard 
+religion = catholic 
+hre = no
+base_tax = 6        
+trade_goods = salt
+manpower = 2        
+fort1 = yes 
+capital = "Ferrara" 
+citysize = 35000	# Estimated 
+workshop = yes 
+marketplace = yes 
+temple = yes # Completed 1135
+university = yes	# Founded March 4th 1391
+add_core = FER
+add_core = VEN
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

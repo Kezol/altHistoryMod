@@ -1,0 +1,13 @@
+#823 - Cauca
+
+culture = guajiro
+religion = animism
+capital = "Cauca"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostileness = 3
+

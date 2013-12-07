@@ -1,0 +1,19 @@
+#340 - Constantine
+
+owner = ALG
+controller = ALG 
+culture = berber
+religion = sunni
+capital = "Constantine"
+trade_goods = grain
+hre = no
+base_tax = 1
+manpower = 2
+citysize = 17000
+fort1 = yes
+add_core = ALG
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

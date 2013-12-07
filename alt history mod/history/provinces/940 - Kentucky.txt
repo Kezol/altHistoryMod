@@ -1,0 +1,17 @@
+#940 - Kentucky
+
+owner = SHA
+controller = SHA
+culture = shawnee
+religion = shamanism
+capital = "Kentucky"
+trade_goods = fur
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 3000
+add_core = SHA
+discovered_by = SHA
+discovered_by = CHE
+discovered_by = CRE
+

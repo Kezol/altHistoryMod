@@ -1,0 +1,25 @@
+# 196 Toulouse - Principal cities: Toulouse
+
+owner = GUY
+controller = GUY
+capital = "Toulouse"
+citysize = 22000
+culture = gascon
+religion = catholic
+hre = no
+base_tax = 7
+trade_goods = wine
+manpower = 5
+add_core = FRA
+add_core = TOU
+add_core = GUY
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+courthouse = yes # Exception, Parlement de Toulouse, only Parlement next to Paris
+fort1 = yes
+fort2 = yes # Exception, very strong forts in the region
+marketplace = yes
+temple = yes # La Basilique Saint-Sernin
+

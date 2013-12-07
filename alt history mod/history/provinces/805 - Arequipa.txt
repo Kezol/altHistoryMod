@@ -1,0 +1,15 @@
+#805 - Arequipa
+
+owner = INC
+controller = INC
+culture = inca
+religion = animism
+capital = "Arequipa"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 1200
+add_core = INC
+discovered_by = INC
+

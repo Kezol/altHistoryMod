@@ -1,0 +1,18 @@
+#697 - Datong
+
+owner = MNG
+controller = MNG
+culture = chihan
+religion = confucianism
+capital = "Datong"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 26150
+add_core = MNG
+add_core = CSH
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

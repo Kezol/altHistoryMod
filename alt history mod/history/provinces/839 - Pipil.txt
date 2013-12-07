@@ -1,0 +1,17 @@
+#839 - Pipil
+
+owner = MAY 
+controller = MAY 
+culture = mayan 
+religion = animism 
+capital = "Pipil" 
+trade_goods = coffee 
+hre = no 
+base_tax = 1 
+manpower = 1 
+citysize = 1500
+add_core = MAY
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+

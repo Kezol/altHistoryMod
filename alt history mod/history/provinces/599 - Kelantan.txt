@@ -1,0 +1,18 @@
+#599 - Kelantan
+
+owner = AYU
+controller = AYU
+culture = malayan
+religion = sunni
+capital = "Kelantan"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 2200
+add_core = AYU
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,0 +1,24 @@
+#Gotland- Visby etc
+
+owner = TEU
+controller = TEU
+add_core = TEU
+add_core = GOT
+add_core = DAN
+add_core = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 4
+trade_goods = wool
+manpower = 1
+fort1 = yes # Visborg Castle
+capital = "Visby"
+is_city = yes
+marketplace = yes
+temple = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

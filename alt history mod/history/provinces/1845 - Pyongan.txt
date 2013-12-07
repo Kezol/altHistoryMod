@@ -1,0 +1,17 @@
+#1845 - Pyongan
+
+owner = KOR
+controller = KOR
+culture = korean
+religion = confucianism
+capital = "Pyongyang"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 24900
+add_core = KOR
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

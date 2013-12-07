@@ -1,0 +1,21 @@
+#1869 - Zurich
+
+owner = GER
+controller = GER
+culture = rheinlaender
+religion = catholic
+capital = "Z�rich"
+trade_goods = wool
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 3900
+fort1 = yes
+add_core = SWI
+add_core = GER
+add_core = BAV
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

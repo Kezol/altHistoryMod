@@ -1,0 +1,19 @@
+#135 - Sopron
+
+owner = HUN
+controller = HUN  
+culture = hungarian
+religion = catholic
+capital = "Sopron"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 4000
+fort1 = yes
+add_core = HUN
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

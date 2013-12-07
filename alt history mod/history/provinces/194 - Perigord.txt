@@ -1,0 +1,20 @@
+# 194 P�rigord - Principal cities: Bergerac
+
+owner = GUY
+controller = GUY
+capital = "Bergerac"
+citysize = 3500
+culture = gascon
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = iron
+manpower = 2
+add_core = FRA
+add_core = GUY
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

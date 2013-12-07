@@ -1,0 +1,20 @@
+#1024 - Echigo
+
+owner = UES
+controller = UES
+culture = japanese
+religion = shinto
+capital = "Naoetsu"
+trade_goods = grain
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 10000
+add_core = UES
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

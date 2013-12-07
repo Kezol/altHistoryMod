@@ -1,0 +1,19 @@
+#1747 - Caceres
+
+owner = CAS		#Enrique III of Castille
+controller = CAS
+add_core = CAS
+culture = castillian
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = wool 
+manpower = 2
+fort1 = yes
+capital = "Caceres" 
+citysize = 2500
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

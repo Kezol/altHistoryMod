@@ -1,0 +1,21 @@
+# 67 - Franken
+
+owner = BAV
+controller = BAV
+add_core = BAV
+culture = bavarian
+religion = catholic
+base_tax = 12
+trade_goods = wine
+manpower = 3
+fort1 = yes
+capital = "Nürnberg"
+citysize = 34000
+hre = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+marketplace = yes
+courthouse = yes 	# Nurnberg is one of the central towns of the HRE
+

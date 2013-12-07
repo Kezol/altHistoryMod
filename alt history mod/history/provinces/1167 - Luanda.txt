@@ -1,0 +1,14 @@
+#1167 - Luanda
+
+culture = kongolese
+religion = shamanism
+capital = "Luanda"
+trade_goods = unknown
+hre = no
+base_tax = 4
+manpower = 2
+native_size = 50
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = KON
+

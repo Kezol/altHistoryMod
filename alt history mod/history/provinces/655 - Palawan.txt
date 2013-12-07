@@ -1,0 +1,13 @@
+#655 - Palawan
+
+culture = filipino
+religion = animism
+capital = "Palawan"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 2
+native_size = 30
+native_ferocity = 2
+native_hostileness = 9
+

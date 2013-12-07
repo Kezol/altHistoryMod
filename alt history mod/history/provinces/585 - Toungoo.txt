@@ -1,0 +1,17 @@
+#585 - Toungoo
+
+owner = TAU
+controller = TAU
+culture = burmese
+religion = buddhism
+capital = "Toungoo"
+trade_goods = grain
+hre = no
+base_tax = 6
+manpower = 2
+fort1 = yes
+citysize = 17487
+add_core = TAU
+discovered_by = chinese
+discovered_by = indian
+

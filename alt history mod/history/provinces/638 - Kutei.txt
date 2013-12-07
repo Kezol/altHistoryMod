@@ -1,0 +1,15 @@
+#638 - Kutei
+
+owner = BEI
+controller = BEI
+culture = malayan
+religion = sunni
+capital = "Kutei"
+trade_goods = fish
+hre = no
+base_tax = 4
+manpower = 3
+citysize = 4630
+add_core = BEI
+discovered_by = chinese
+

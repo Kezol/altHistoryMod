@@ -1,0 +1,18 @@
+#626 - Mataram
+
+owner = MAJ
+controller = MAJ
+add_core = MAJ
+culture = sulawesi
+religion = hinduism
+capital = "Karta"
+trade_goods = spices
+hre = no
+base_tax = 8
+manpower = 6
+citysize = 10800
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+

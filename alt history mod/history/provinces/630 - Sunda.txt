@@ -1,0 +1,14 @@
+#630 - Sunda
+
+culture = sulawesi
+religion = hinduism
+capital = "Kalapa"
+trade_goods = unknown
+hre = no
+base_tax = 3
+manpower = 2
+native_size = 20
+native_ferocity = 8.5
+native_hostileness = 7
+discovered_by = MAJ
+

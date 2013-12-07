@@ -1,0 +1,17 @@
+#933 - Catawba
+
+owner = CHE
+controller = CHE
+culture = cherokee
+religion = shamanism
+capital = "Catawba"
+trade_goods = tobacco
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1000
+add_core = CHE
+discovered_by = CHE
+discovered_by = CRE
+discovered_by = SHA
+

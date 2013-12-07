@@ -1,0 +1,18 @@
+#349 - Atlas
+
+owner = MOR
+controller = MOR
+culture = berber
+religion = sunni
+capital = "Figuig"
+trade_goods = wool
+hre = no
+base_tax = 4
+manpower = 1
+citysize = 2146
+fort1 = yes
+add_core = MOR
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+

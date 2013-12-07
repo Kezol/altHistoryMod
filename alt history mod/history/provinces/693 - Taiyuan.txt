@@ -1,0 +1,18 @@
+#693 - Taiyuan
+
+owner = MNG
+controller = MNG
+culture = chihan
+religion = confucianism
+capital = "Taiyuan"
+trade_goods = grain
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 7100
+fort1 = yes
+add_core = MNG
+add_core = CSH
+discovered_by = chinese
+discovered_by = nomad_group
+

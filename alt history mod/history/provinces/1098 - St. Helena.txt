@@ -1,0 +1,9 @@
+#1098 - St. Helena
+
+culture = patagonian
+religion = animism
+hre = no
+base_tax = 1
+trade_goods = unknown
+manpower = 1
+

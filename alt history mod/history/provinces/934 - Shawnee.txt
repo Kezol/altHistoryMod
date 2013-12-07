@@ -1,0 +1,17 @@
+#934 - Shawnee
+
+owner = SHA
+controller = SHA
+culture = shawnee
+religion = shamanism
+capital = "Shawnee"
+trade_goods = grain
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1200
+add_core = SHA
+discovered_by = SHA
+discovered_by = CRE
+discovered_by = CHE
+

@@ -1,0 +1,15 @@
+#807 - Huamanga
+
+owner = INC
+controller = INC
+culture = inca
+religion = animism
+capital = "Ayacucho"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 3400
+add_core = INC
+discovered_by = INC
+

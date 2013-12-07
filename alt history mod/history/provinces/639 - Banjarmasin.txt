@@ -1,0 +1,15 @@
+#639 - Banjarmasin
+
+owner = BEI
+controller = BEI
+culture = malayan
+religion = sunni
+capital = "Banjarmasin"
+trade_goods = spices
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 5800
+add_core = BEI
+discovered_by = chinese
+

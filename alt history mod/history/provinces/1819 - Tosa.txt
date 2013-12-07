@@ -1,0 +1,20 @@
+#1819 - Tosa
+
+owner = HSK
+controller = HSK
+culture = japanese
+religion = shinto
+capital = "Nakamura"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5234
+add_core = HSK
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

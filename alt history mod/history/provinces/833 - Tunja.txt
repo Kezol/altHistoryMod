@@ -1,0 +1,13 @@
+#833 - Tunja
+
+culture = guajiro
+religion = animism
+capital = "Tunja"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+

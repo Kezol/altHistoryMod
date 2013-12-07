@@ -1,0 +1,25 @@
+# 172 Vendée - Principal cities: Nantes
+
+owner = BRI
+controller = BRI
+capital = "Nantes"
+citysize = 9000
+culture = breton
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = salt
+manpower = 5
+add_core = BRI
+fort1 = yes 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1000.1.1   = {
+		add_permanent_province_modifier = {
+			name = loire_estuary_modifier
+			duration = -1
+		}
+}

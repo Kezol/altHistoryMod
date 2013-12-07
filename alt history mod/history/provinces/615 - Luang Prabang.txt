@@ -1,0 +1,17 @@
+#615 - Luang Prabang
+
+owner = LXA
+controller = LXA
+culture = lao
+religion = buddhism
+capital = "Xieng Tong"
+trade_goods = wool
+hre = no
+base_tax = 4
+manpower = 2
+fort1 = yes
+citysize = 4900
+add_core = LXA
+discovered_by = chinese
+discovered_by = indian
+

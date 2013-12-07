@@ -1,0 +1,16 @@
+#587 - Keng Tung
+
+owner = SST
+controller = SST
+culture = shan
+religion = buddhism
+capital = "Keng Tung"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 6700
+add_core = SST
+discovered_by = chinese
+discovered_by = indian
+

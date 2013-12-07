@@ -1,0 +1,17 @@
+#713 - Kuruk Tag
+
+owner = OIR
+controller = OIR
+culture = mongol
+religion = buddhism
+capital = "Turpan"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 6580
+add_core = OIR
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

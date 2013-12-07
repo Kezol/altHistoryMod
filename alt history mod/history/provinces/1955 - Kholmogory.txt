@@ -1,0 +1,17 @@
+#Kholmogory
+
+owner = NOV 
+controller = NOV   
+culture = russian
+religion = orthodox
+hre = no
+base_tax = 2
+trade_goods = fur  
+manpower = 1
+capital = "Kholmogory"
+citysize = 1000
+add_core = NOV
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+

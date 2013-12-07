@@ -1,0 +1,12 @@
+#1183 - Inhambane
+
+culture = bantu #tonga
+religion = animism
+capital = "Inhambane"
+trade_goods = unknown
+hre = no
+base_tax = 4
+native_size = 30
+native_ferocity = 4
+native_hostileness = 9 
+

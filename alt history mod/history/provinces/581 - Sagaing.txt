@@ -1,0 +1,17 @@
+#581 - Sagaing
+
+owner = SST
+controller = SST
+culture = burmese
+religion = buddhism
+capital = "Sagaing"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 6200
+add_core = SST
+discovered_by = chinese
+discovered_by = indian
+temple = yes
+

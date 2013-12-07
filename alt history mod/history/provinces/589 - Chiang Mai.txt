@@ -1,0 +1,18 @@
+#589 - Chiang Mai
+
+owner = LNA
+controller = LNA
+culture = northern_thai
+religion = buddhism
+capital = "Chiang Mai"
+trade_goods = wool 
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 25000
+add_core = LNA
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+temple = yes
+

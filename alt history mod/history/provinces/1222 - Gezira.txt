@@ -1,0 +1,18 @@
+#1222 - Gezira
+
+culture = nubian
+religion = animism
+capital = "Sennar"
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+manpower = 2
+trade_goods = unknown
+hre = no
+base_tax = 1
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+

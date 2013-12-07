@@ -1,0 +1,17 @@
+#Kargopol
+
+owner = NOV
+controller = NOV   
+culture = russian
+religion = orthodox
+hre = no
+base_tax = 2
+trade_goods = naval_supplies
+manpower = 1
+capital = "Kargopol"
+citysize = 2000
+add_core = NOV
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+

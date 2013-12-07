@@ -1,0 +1,21 @@
+# 190 Bourbon - Principal cities: Moulins
+
+owner = BOU
+controller = BOU 
+capital = "Moulins"
+citysize = 5500
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = iron
+manpower = 4
+add_core = BOU
+add_core = FRA
+fort1 = yes
+temple = yes # Cathedral of Bourges
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

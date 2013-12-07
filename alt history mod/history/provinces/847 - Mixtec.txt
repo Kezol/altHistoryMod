@@ -1,0 +1,17 @@
+#847 - Mixtec
+
+owner = ZAP 
+controller = ZAP 
+culture = zapotek 
+religion = animism 
+capital = "Zaachila" 
+trade_goods = grain 
+hre = no 
+base_tax = 2 
+manpower = 1 
+citysize = 1250
+add_core = ZAP
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+

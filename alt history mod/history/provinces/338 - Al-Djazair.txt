@@ -1,0 +1,19 @@
+#338 - Al-Djazair
+
+owner = ALG
+controller = ALG  
+culture = berber
+religion = sunni
+capital = "Al-Djazair"
+trade_goods = grain
+hre = no
+base_tax = 7
+manpower = 4
+citysize = 20400
+fort1 = yes
+add_core = ALG
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+

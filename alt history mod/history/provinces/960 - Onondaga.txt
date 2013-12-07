@@ -1,0 +1,16 @@
+#960 - Onondaga
+
+owner = IRO
+controller = IRO
+culture = iroquis
+religion = shamanism
+capital = "Onondaga"
+trade_goods = fur
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 1363
+add_core = IRO
+discovered_by = IRO
+discovered_by = HUR
+

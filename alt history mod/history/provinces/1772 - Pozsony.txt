@@ -1,0 +1,19 @@
+#1772 - Pozsony
+
+owner = HUN
+controller = HUN  
+culture = hungarian
+religion = catholic
+capital = "Pressburg"
+trade_goods = grain
+hre = no
+base_tax = 8
+manpower = 4
+citysize = 10200
+fort1 = yes
+add_core = HUN
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

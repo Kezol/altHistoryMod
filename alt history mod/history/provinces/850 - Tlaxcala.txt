@@ -1,0 +1,17 @@
+#850 - Tlaxcala
+
+owner = ZAP
+controller = ZAP
+culture = zapotek
+religion = animism
+capital = "Tlaxcala"
+trade_goods = sugar
+hre = no 
+base_tax = 2
+manpower = 1
+citysize = 1100
+add_core = ZAP
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+

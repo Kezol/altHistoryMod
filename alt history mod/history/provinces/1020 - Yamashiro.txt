@@ -1,0 +1,21 @@
+#1020 - Kyoto
+
+owner = JAP
+controller = JAP
+culture = japanese
+religion = shinto
+capital = "Kyoto"
+trade_goods = grain
+hre = no
+base_tax = 7
+manpower = 3
+citysize = 50000
+add_core = JAP
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+temple = yes
+

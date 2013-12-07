@@ -1,0 +1,20 @@
+#Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 2
+trade_goods = fish
+manpower = 2
+fort1 = yes
+capital = "Gävle"
+is_city = yes
+marketplace = yes # controller of trade in Norrland
+discovered_by = eastern
+discovered_by = western
+
+# 1520.3.6  = { owner = DAN controller = DAN } #The Council accept Christian II as King
+# 1521.4.30 = { owner = SWE controller = SWE } #The population joins the uprising

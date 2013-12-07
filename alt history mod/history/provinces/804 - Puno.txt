@@ -1,0 +1,15 @@
+#804 - Puno
+
+owner = INC
+controller = INC
+culture = aimara
+religion = animism
+capital = "Puno"
+trade_goods = gold
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1250
+add_core = INC
+discovered_by = INC
+

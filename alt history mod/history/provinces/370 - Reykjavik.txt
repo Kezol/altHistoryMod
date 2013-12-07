@@ -1,0 +1,17 @@
+#370 - Reykjavik
+
+owner = NOR
+controller = NOR 
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1
+trade_goods = fish
+manpower = 1
+capital = "Reykjavik"
+citysize = 1050 		# Estimated
+fort1 = yes
+add_core = NOR
+discovered_by = western
+
+#1450.1.1 = { citysize = 300 }

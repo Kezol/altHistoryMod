@@ -1,0 +1,16 @@
+#611 - Thakhek
+
+owner = LXA
+controller = LXA
+culture = lao
+religion = buddhism
+capital = "Thakhek"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 3740
+add_core = LXA
+discovered_by = chinese
+discovered_by = indian
+

@@ -1,0 +1,15 @@
+#1071 - Tara
+
+owner = SHY
+controller = SHY
+culture = siberian
+religion = sunni
+capital = "Qizil Tura"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 1
+citysize = 1000
+add_core = SIB
+discovered_by = nomad_group
+

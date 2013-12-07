@@ -1,0 +1,17 @@
+#717 - Selenge
+
+owner = OIR		# The Oirads united much of Mongolia
+controller = OIR
+culture = mongol
+religion = buddhism
+capital = "Selenge"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 9400
+add_core = OIR
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

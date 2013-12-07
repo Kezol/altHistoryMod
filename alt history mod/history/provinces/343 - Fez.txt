@@ -1,0 +1,20 @@
+#343 - Fez
+
+owner = MOR
+controller = MOR  
+culture = berber
+religion = sunni
+capital = "Fez"
+trade_goods = grain
+hre = no
+base_tax = 7
+manpower = 3
+citysize = 10440
+fort1 = yes
+add_core = MOR
+temple = yes	# Kariouyine mosque
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

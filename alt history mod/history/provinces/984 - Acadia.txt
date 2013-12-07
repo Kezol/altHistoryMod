@@ -1,0 +1,13 @@
+#984 - Acadia
+
+culture = inuit
+religion = shamanism
+capital = "Acadia"
+trade_goods = unknown
+hre = no
+base_tax = 3
+manpower = 1
+native_size = 10
+native_ferocity = 3
+native_hostileness = 8
+

@@ -1,0 +1,20 @@
+#1025 - Dewa
+
+owner = SBA
+controller = SBA
+culture = japanese
+religion = shinto
+capital = "Yamagata"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 4250
+add_core = SBA
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

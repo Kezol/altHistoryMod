@@ -1,0 +1,16 @@
+#614 - Vientiane
+
+owner = LXA
+controller = LXA
+culture = lao
+religion = buddhism
+capital = "Vientiane"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 24300
+add_core = LXA
+discovered_by = chinese
+discovered_by = indian
+

@@ -1,0 +1,16 @@
+#809 - Lima
+
+owner = INC
+controller = INC
+culture = inca
+religion = animism
+capital = "Lima"
+trade_goods = fish
+hre = no
+base_tax = 6
+manpower = 1
+citysize = 2844
+add_core = INC
+discovered_by = INC
+discovered_by = CHM
+

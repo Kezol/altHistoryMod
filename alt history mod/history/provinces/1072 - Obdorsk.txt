@@ -1,0 +1,5 @@
+#1072 - Obdorsk
+
+discovered_by = nomad_group
+discovered_by = NOV
+

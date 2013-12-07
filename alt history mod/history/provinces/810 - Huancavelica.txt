@@ -1,0 +1,15 @@
+#810 - Huancavelica
+
+owner = INC
+controller = INC
+culture = inca
+religion = animism
+capital = "Huancavelica"
+trade_goods = gold
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 1100
+add_core = INC
+discovered_by = INC
+

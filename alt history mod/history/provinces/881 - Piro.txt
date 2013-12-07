@@ -1,0 +1,13 @@
+#881 - Piro
+
+culture = pueblo 
+religion = animism 
+capital = "Acoma" 
+trade_goods = unknown 
+hre = no 
+base_tax = 1 
+manpower = 1 
+native_size = 15 
+native_ferocity = 3 
+native_hostileness = 5 
+

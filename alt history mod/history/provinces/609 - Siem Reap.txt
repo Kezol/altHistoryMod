@@ -1,0 +1,16 @@
+#609 - Siem Reap
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Siem Reap"
+trade_goods = grain
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 2400
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian
+

@@ -1,0 +1,18 @@
+#689 - Hanzhong
+
+owner = MNG
+controller = MNG
+culture = chihan
+religion = confucianism
+capital = "Hanzhong"
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 40020
+add_core = MNG
+add_core = CSH
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

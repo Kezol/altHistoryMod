@@ -1,0 +1,17 @@
+#727 - Heilongjiang
+
+owner = MCH
+controller = MCH
+culture = manchu
+religion = confucianism
+capital = "Harbin"
+trade_goods = cloth
+hre = no
+base_tax = 6
+manpower = 6
+citysize = 14100
+add_core = MCH
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

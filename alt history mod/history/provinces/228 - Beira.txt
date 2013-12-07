@@ -1,0 +1,20 @@
+#228 - Beira
+
+owner = POR
+controller = POR
+culture = portugese
+religion = catholic
+capital = "Viseu"
+trade_goods = wine
+hre = no
+base_tax = 7
+manpower = 3
+citysize = 6000
+add_core = POR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+fort1 = yes
+marketplace = yes
+

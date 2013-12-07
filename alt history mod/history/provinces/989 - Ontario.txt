@@ -1,0 +1,16 @@
+#989 - Ontario
+
+owner = HUR
+controller = HUR
+culture = huron
+religion = shamanism
+capital = "Ontario"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 1500
+add_core = HUR
+discovered_by = HUR
+discovered_by = IRO
+

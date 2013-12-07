@@ -1,0 +1,20 @@
+#1017 - Suo
+
+owner = OUC
+controller = OUC
+culture = japanese
+religion = shinto
+capital = "Yamaguchi"
+trade_goods = chinaware
+hre = no
+base_tax = 6
+manpower = 3
+citysize = 10000
+add_core = OUC
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

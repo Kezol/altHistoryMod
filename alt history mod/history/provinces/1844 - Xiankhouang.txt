@@ -1,0 +1,16 @@
+#1844 - Xiankhouang
+
+owner = LXA
+controller = LXA
+culture = lao
+religion = buddhism
+capital = "Posavan"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 24300
+add_core = LXA
+discovered_by = chinese
+discovered_by = indian
+

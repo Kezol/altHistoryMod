@@ -1,0 +1,18 @@
+#1823 - Stung Treng
+
+owner = LXA
+controller = LXA
+culture = khmer
+religion = buddhism
+capital = "Stung Treng"
+trade_goods = grain
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1000
+add_core = LXA
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian
+
+# Lan Xang occupied the province during the dark age of Cambodia

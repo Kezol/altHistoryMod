@@ -1,0 +1,17 @@
+#925 - Tuskegee
+
+owner = CHE
+controller = CHE
+culture = cherokee
+religion = shamanism
+capital = "Tuskegee"
+trade_goods = cotton
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 2500
+add_core = CHE
+discovered_by = CHE
+discovered_by = CRE
+discovered_by = SHA
+

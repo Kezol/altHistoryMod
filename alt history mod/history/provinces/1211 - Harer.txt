@@ -1,0 +1,22 @@
+#1211 - Harer
+
+owner = ADA
+controller = ADA
+add_core = ADA
+culture = somali # Harerge
+religion = sunni
+capital = "Deker"
+citysize = 5000
+manpower = 2
+trade_goods = coffee
+hre = no
+base_tax = 2
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+

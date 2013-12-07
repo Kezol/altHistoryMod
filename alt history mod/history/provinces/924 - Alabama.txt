@@ -1,0 +1,17 @@
+#924 - Alabama
+
+owner = CRE
+controller = CRE
+culture = creek
+religion = shamanism
+capital = "Alabama"
+trade_goods = cotton
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 2500
+add_core = CRE
+discovered_by = CRE
+discovered_by = CHE
+discovered_by = SHA
+

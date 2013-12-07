@@ -1,0 +1,19 @@
+#663 - Wenshan
+
+owner = MNG
+controller = MNG
+culture = cantonese
+religion = confucianism
+capital = "Gejiu"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 5
+citysize = 10400
+add_core = MNG
+add_core = CZH
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group
+

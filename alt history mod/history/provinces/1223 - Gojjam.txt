@@ -1,0 +1,22 @@
+#1223 - Gojjam
+
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = ethiopian 
+religion = orthodox
+capital = "Debre Libanos"
+citysize = 4500
+manpower = 2
+trade_goods = grain
+hre = no
+base_tax = 2
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+

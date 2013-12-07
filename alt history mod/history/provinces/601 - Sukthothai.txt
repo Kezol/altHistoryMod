@@ -1,0 +1,16 @@
+#601 - Sukthothai
+
+owner = SUK
+controller = SUK
+culture = northern_thai
+religion = buddhism
+capital = "Sukhothai"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 7870
+add_core = SUK
+discovered_by = chinese
+discovered_by = indian
+

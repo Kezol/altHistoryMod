@@ -1,0 +1,15 @@
+#932 - Santee
+
+culture = creek
+religion = shamanism
+capital = "Santee"
+trade_goods = unknown
+hre = no
+base_tax = 5
+manpower = 2
+native_size = 10
+native_ferocity = 2
+native_hostileness = 8
+discovered_by = CRE
+discovered_by = CHE
+

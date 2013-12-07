@@ -1,0 +1,19 @@
+#Värmland+Dal
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 2
+trade_goods = iron
+manpower = 2
+fort1 = yes
+capital = "Karlstad"
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

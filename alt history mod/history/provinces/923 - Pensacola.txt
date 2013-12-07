@@ -1,0 +1,17 @@
+#923 - Pensacola
+
+owner = CRE
+controller = CRE
+culture = creek
+religion = shamanism
+capital = "Pensacola"
+trade_goods = cotton
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1000
+add_core = CRE
+discovered_by = CRE
+discovered_by = CHE
+discovered_by = SHA
+

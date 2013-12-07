@@ -1,0 +1,21 @@
+#263 - Ratibor
+
+owner = SIL
+controller = SIL
+culture = schlesian
+religion = catholic
+hre = no
+base_tax = 3
+capital = "Ratibor"
+citysize = 15000
+trade_goods = wine
+manpower = 2
+fort1 = yes
+add_core = BOH
+add_core = SIL
+add_core = SIL
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

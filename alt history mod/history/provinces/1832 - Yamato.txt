@@ -1,0 +1,20 @@
+#1832 - Yamato
+
+owner = HTK
+controller = HTK
+culture = japanese
+religion = shinto
+capital = "Nara"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 8000
+add_core = HTK
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

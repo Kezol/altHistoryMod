@@ -1,0 +1,17 @@
+#733 - Hwanghae
+
+owner = KOR
+controller = KOR
+culture = korean
+religion = confucianism
+capital = "Haeju"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 24900
+add_core = KOR
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

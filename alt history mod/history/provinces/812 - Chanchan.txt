@@ -1,0 +1,16 @@
+#812 - Chanchan
+
+owner = CHM
+controller = CHM
+culture = inca
+religion = animism
+capital = "Chanchan"
+trade_goods = coffee
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1500
+add_core = CHM
+discovered_by = CHM
+discovered_by = INC
+

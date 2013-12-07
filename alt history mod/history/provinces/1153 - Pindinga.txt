@@ -1,0 +1,16 @@
+#1153 - Pindinga
+
+culture = bantu # mix of smaller peoples   
+religion = animism
+capital = "Lafia"
+native_size = 40
+manpower = 1
+trade_goods = unknown
+hre = no
+base_tax = 1
+native_ferocity = 4
+native_hostileness = 9
+discovered_by = HAU
+discovered_by = KBO
+discovered_by = BEN
+

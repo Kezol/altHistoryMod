@@ -1,0 +1,13 @@
+#786 - Salinas Grande
+
+culture = patagonian
+religion = animism
+capital = "Salinas Grande"
+trade_goods = unknown
+hre = no
+base_tax = 5
+manpower = 2
+native_size = 10 
+native_ferocity = 3
+native_hostileness = 0	
+

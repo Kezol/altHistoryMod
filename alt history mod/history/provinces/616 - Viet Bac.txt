@@ -1,0 +1,16 @@
+#616 - Viet Bac
+
+owner = DAI
+controller = DAI
+culture = vietnamese
+religion = buddhism
+capital = "Viet Bac"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 4000
+add_core = DAI
+discovered_by = chinese
+discovered_by = indian
+

@@ -1,0 +1,18 @@
+#566 - Assam
+
+owner = ASS
+controller = ASS
+culture = assamese
+religion = hinduism
+capital = "Charaideo"
+trade_goods = tea
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 20000
+add_core = ASS
+fort1 = yes
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+

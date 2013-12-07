@@ -1,0 +1,13 @@
+#966 - Connecticut
+
+culture = delaware
+religion = shamanism
+capital = "Connecticut"
+trade_goods = unknown
+hre = no
+base_tax = 5
+manpower = 2
+native_size = 25
+native_ferocity = 3
+native_hostileness = 9
+

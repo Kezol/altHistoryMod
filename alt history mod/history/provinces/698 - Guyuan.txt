@@ -1,0 +1,18 @@
+#698 - Guyuan
+
+owner = MNG
+controller = MNG
+culture = chihan
+religion = confucianism
+capital = "Guyuan"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 9900
+add_core = MNG
+add_core = CSH
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

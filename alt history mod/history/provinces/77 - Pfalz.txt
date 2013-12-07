@@ -1,0 +1,20 @@
+#77 - Pfalz
+
+capital = "Heidelberg"
+culture = rheinlaender
+religion = catholic
+trade_goods = wine
+owner = GER
+base_tax = 6
+manpower = 2
+fort1 = yes
+citysize = 10000
+controller = GER
+add_core = PAL
+add_core = GER
+hre = no
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

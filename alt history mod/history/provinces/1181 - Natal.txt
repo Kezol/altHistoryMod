@@ -1,0 +1,12 @@
+#1181 - Natal
+
+culture = bantu #Nguni
+religion = animism
+capital = "Magulu"
+native_size = 50
+trade_goods = unknown
+hre = no
+base_tax = 1
+native_ferocity = 4
+native_hostileness = 9 
+

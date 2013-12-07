@@ -1,0 +1,17 @@
+#851 - Tarasco
+
+owner = ZAP 
+controller = ZAP 
+culture = zapotek 
+religion = animism 
+capital = "Tarasco" 
+trade_goods = fish 
+hre = no 
+base_tax = 2 
+manpower = 1 
+citysize = 1268
+add_core = ZAP 
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+

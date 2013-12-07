@@ -1,0 +1,21 @@
+#1826 - Lika
+
+owner = CRO
+controller = CRO
+culture = croatian
+religion = catholic
+capital = "Rijeka"
+trade_goods = cloth
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 3000
+fort1 = yes
+add_core = HUN
+add_core = CRO
+add_core = CRO
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

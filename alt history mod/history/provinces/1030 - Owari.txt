@@ -1,0 +1,20 @@
+#1030 - Owari
+
+owner = SBA
+controller = SBA
+culture = japanese
+religion = shinto
+capital = "Kiyosu"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 10710
+add_core = SBA
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

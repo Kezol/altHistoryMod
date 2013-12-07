@@ -1,0 +1,17 @@
+#728 - Yichun
+
+owner = MCH
+controller = MCH
+culture = manchu
+religion = confucianism
+capital = "Yichun"
+trade_goods = fur
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 9950
+add_core = MCH
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

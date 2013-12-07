@@ -1,0 +1,12 @@
+#1194 - Boina
+
+culture = madagasque #Malagasy
+religion = animism
+capital = "Majunga"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 2
+native_ferocity = 4
+native_hostileness = 9
+

@@ -1,0 +1,17 @@
+#Wenden & Polish Livonia
+
+owner = LIV
+controller = LIV
+add_core = LIV
+culture = latvian
+religion = catholic
+capital = "Wenden"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 1500
+fort1 = yes
+discovered_by = western
+discovered_by = eastern
+

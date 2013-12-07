@@ -1,0 +1,19 @@
+#Österbotten, down to Vasa.
+
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+culture = finnish
+religion = catholic
+hre = no
+base_tax = 1
+trade_goods = fur
+manpower = 1
+capital = "Korsholm"
+citysize = 1000
+discovered_by = eastern
+discovered_by = western
+
+# 1520.3.6  = { owner = DAN controller = DAN } # The Council accept Christian II as King
+# 1523.9.15 = { owner = SWE controller = SWE } # Liberated by Ivar and Erik Fleming and joins Gustav I Wasa

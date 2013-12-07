@@ -1,0 +1,13 @@
+#492 - Puerto Rico
+
+culture = arawak
+religion = animism
+capital = "Puerto Rico"
+trade_goods = unknown 
+hre = no
+base_tax = 5
+manpower = 1
+native_size = 10
+native_ferocity = 2 
+native_hostileness = 5 
+

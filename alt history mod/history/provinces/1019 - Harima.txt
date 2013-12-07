@@ -1,0 +1,21 @@
+#1019 - Harima
+
+owner = YMN
+controller = YMN
+culture = japanese
+religion = shinto
+capital = "Himeji"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 8000
+fort1 = yes
+add_core = YMN
+add_core = HSK
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

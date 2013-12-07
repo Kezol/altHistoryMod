@@ -1,0 +1,17 @@
+#702 - Ulanqab
+
+owner = KHA
+controller = KHA 
+culture = mongol
+religion = buddhism
+capital = "Hohhot"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 8245
+add_core = KHA
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+

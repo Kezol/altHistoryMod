@@ -1,0 +1,15 @@
+#854 - Sayultecas
+
+culture = aztek 
+religion = animism 
+capital = "Sayultecas" 
+trade_goods = unknown
+hre = no 
+base_tax = 7 
+manpower = 3
+native_size = 5 
+native_ferocity = 1
+native_hostileness = 5
+discovered_by = MAY
+discovered_by = ZAP
+

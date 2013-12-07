@@ -1,0 +1,21 @@
+#55 - Oldenburg
+
+owner = GER
+controller = GER
+culture = hannoverian
+religion = catholic
+capital = "Oldenburg"
+trade_goods = salt
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 2000
+fort1 = yes
+add_core = OLD
+add_core = GER
+add_core = GER
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

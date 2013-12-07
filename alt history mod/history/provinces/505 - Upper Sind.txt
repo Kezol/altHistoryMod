@@ -1,0 +1,19 @@
+#505 - Upper Sind
+
+owner = SND
+controller = SND
+culture = sindhi
+religion = sunni
+capital = "Bhakkar"
+trade_goods = cotton
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 8000
+add_core = SND
+fort1 = yes
+discovered_by = indian
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = nomad_group
+

@@ -1,0 +1,17 @@
+#935 - Cherokee
+
+owner = CHE
+controller = CHE
+culture = cherokee
+religion = shamanism
+capital = "Cherokee"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1000
+add_core = CHE
+discovered_by = CHE
+discovered_by = CRE
+discovered_by = SHA
+

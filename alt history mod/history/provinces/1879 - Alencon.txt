@@ -1,0 +1,22 @@
+# 1879 - Alençon
+
+owner = ENG
+controller = ENG
+capital = "Alençon"
+citysize = 11000
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 6
+trade_goods = cloth
+manpower = 4
+add_core = ALE
+add_core = ENG
+add_core = FRA
+fort1 = yes
+temple = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

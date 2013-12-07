@@ -1,0 +1,13 @@
+#489 - Tortuga
+
+culture = arawak
+religion = animism
+capital = "Tortuga"
+trade_goods = unknown 
+hre = no
+base_tax = 4
+manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 2
+

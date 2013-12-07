@@ -1,0 +1,16 @@
+#584 - Kyuakse
+
+owner = SST
+controller = SST
+culture = burmese
+religion = buddhism
+capital = "Kyaukse"
+trade_goods = grain
+hre = no
+base_tax = 1
+manpower = 3
+citysize = 4200
+add_core = SST
+discovered_by = chinese
+discovered_by = indian
+

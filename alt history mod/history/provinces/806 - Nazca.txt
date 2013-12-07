@@ -1,0 +1,15 @@
+#806 - Nazca
+
+owner = INC
+controller = INC
+culture = inca
+religion = animism
+capital = "Nazca"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1850
+add_core = INC
+discovered_by = INC
+

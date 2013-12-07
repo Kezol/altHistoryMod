@@ -1,0 +1,17 @@
+#718 - Govi Altay
+
+owner = OIR		# The Oirads united much of Mongolia
+controller = OIR
+culture = mongol
+religion = buddhism
+capital = "Govi Altay"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 6480
+add_core = OIR
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+
